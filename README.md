@@ -1,7 +1,7 @@
 # Common Library
 
 ### Steps to use it
-* Few properties need to be change in pom.xml, please check it and update accordingly and if you want you can update library version in build.gradle and pom.xml
+* Few properties need to be change in pom.xml, please check it and update accordingly and if you want you can update library version in [build.gradle](https://github.com/OurVirtualLibrary/common/blob/develop/build.gradle) and [pom.xml](https://github.com/OurVirtualLibrary/common/blob/develop/pom.xml)
 * Execute below command to publish it to local repository
 ```shell
     ./gradlew publishToMavenLocal
