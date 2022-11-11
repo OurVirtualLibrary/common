@@ -4,7 +4,7 @@
   * [Create a Jfrog free tier account](https://jfrog.com/start-free/)
   * Watch this [setup video](https://www.youtube.com/watch?v=CqvVQkOSGTA&ab_channel=JFrog) to configure publish artifactory and related information
   * Make sure to follow all the steps carefully while following steps explained in the project
-  * Look for the changes made in pom.xml
+  * Look for the changes made in [pom.xml](https://github.com/OurVirtualLibrary/common/blob/feature/jfrog_maven/pom.xml#L46-L57)
 ### Steps to use it
 * Few properties need to be change in pom.xml, please check it and update accordingly and if you want you can update library version in [build.gradle](https://github.com/OurVirtualLibrary/common/blob/develop/build.gradle) and [pom.xml](https://github.com/OurVirtualLibrary/common/blob/develop/pom.xml)
 * Execute below command to publish it to local repository
